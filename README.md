@@ -1,4 +1,4 @@
-## Hiya, I'm Coela Can't! 
+## Hi, I'm Coela
 
 I develop hardware and software for open-source projects, mainly focusing on embedded development, systems administration, and task automation.
 
