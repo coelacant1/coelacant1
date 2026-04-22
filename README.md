@@ -11,19 +11,11 @@ I develop hardware and software for open-source projects, mainly focusing on emb
 If my contributions help you, please consider [supporting me on GitHub Sponsors](https://github.com/sponsors/coelacant1) to help me keep my projects active!
 
 <a href="./">
-  <img
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=coelacant1&show_icons=true&include_all_commits=true&icon_color=e59bba&title_color=e59bba&text_color=ffffff&bg_color=00000000&hide_border=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-    alt="My Github stats"
-    width="500em"
-  />
+  <img src="https://github-stats.coela.workers.dev/api?username=coelacant1&show_icons=true&include_all_commits=true&title_color=e59bba&icon_color=e59bba&text_color=ffffff&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&number_format=long" alt="Stats card dark" height="300em"/>
 </a>
 
 <a href="./">
-  <img
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=coelacant1&layout=pie&icon_color=e59bba&title_color=e59bba&text_color=ffffff&bg_color=00000000&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Language%20distribution"
-    alt="My Language stats"
-    height="340em"
-  />
+  <img src="https://github-stats.coela.workers.dev/api/top-langs/?username=coelacant1&layout=donut&langs_count=8&title_color=e59bba&icon_color=e59bba&text_color=ffffff&hide_border=true" alt="Top langs donut-vertical dark" height="300em"/>
 </a>
 
 ## My Projects
