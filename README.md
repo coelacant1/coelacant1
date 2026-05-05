@@ -1,5 +1,3 @@
-## Hi, I'm Coela
-
 I develop hardware and software for open-source projects, mainly focusing on embedded development, systems administration, and task automation.
 
 - I’m currently working on a rewrite of my 3D rendering engine Prototracer, refactored into a native/embedded backend called KoiloEngine.
@@ -19,5 +17,3 @@ If my contributions help you, please consider [supporting me on GitHub Sponsors]
 
 ## My Projects
 Check out my pinned repositories below to see my current projects!
-
-
