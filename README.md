@@ -2,10 +2,6 @@ I develop hardware and software for open-source projects, mainly focusing on emb
 
 - I’m currently working on a rewrite of my 3D rendering engine Prototracer, refactored into a native/embedded backend called KoiloEngine.
 - Ask me about vector math, physics, or quaternions.
-- How to reach me: <a>coelacannot&#64;gmail&#46;com</a>
-
-## Support My Work
-If my contributions help you, please consider [supporting me on GitHub Sponsors](https://github.com/sponsors/coelacant1) to help me keep my projects active!
 
 <a href="./">
   <img src="https://github-stats.coela.workers.dev/api?username=coelacant1&show_icons=true&include_all_commits=true&title_color=e59bba&icon_color=e59bba&text_color=ffffff&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&number_format=long" alt="Stats card dark" height="300em"/>
@@ -16,4 +12,4 @@ If my contributions help you, please consider [supporting me on GitHub Sponsors]
 </a>
 
 ## My Projects
-Check out my pinned repositories below to see my current projects!
+Check out my pinned repositories below to see my current projects.
