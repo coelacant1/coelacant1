@@ -1,15 +1,12 @@
-I develop hardware and software for open-source projects, mainly focusing on embedded development, systems administration, and task automation.
+### Embedded Software, Electrical, and Systems Engineer
 
-- I’m currently working on a rewrite of my 3D rendering engine Prototracer, refactored into a native/embedded backend called KoiloEngine.
-- Ask me about vector math, physics, or quaternions.
+Hardware, firmware, mixed-signal and power PCB design in Altium, bare-metal and RTOS firmware, motion and motor control, security analysis, and Proxmox / Ceph platforms. Portfolio at **[coela.dev](https://coela.dev)**.
 
-<a href="./">
-  <img src="https://github-stats.coela.workers.dev/api?username=coelacant1&show_icons=true&include_all_commits=true&title_color=e59bba&icon_color=e59bba&text_color=ffffff&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&number_format=long" alt="Stats card dark" height="300em"/>
-</a>
+---
 
 <a href="./">
-  <img src="https://github-stats.coela.workers.dev/api/top-langs/?username=coelacant1&layout=donut&langs_count=8&title_color=e59bba&icon_color=e59bba&text_color=ffffff&hide_border=true" alt="Top langs donut-vertical dark" height="300em"/>
+  <img src="https://github-stats.coela.workers.dev/api?username=coelacant1&show_icons=true&include_all_commits=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&number_format=long" alt="GitHub stats" height="200em"/>
 </a>
-
-## My Projects
-Check out my pinned repositories below to see my current projects.
+<a href="./">
+  <img src="https://github-stats.coela.workers.dev/api/top-langs/?username=coelacant1&layout=donut&langs_count=8&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true" alt="Top languages" height="200em"/>
+</a>
